@@ -12,7 +12,7 @@ Implement a user authentication system with secure login and registration functi
 
 ### MongoDB + Express.js + React.js + Node.js
 
-This template created with MERN Stack
+This template created with MERN Stack.
 
 # Getting Started with Create React App
 
