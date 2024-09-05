@@ -1,3 +1,19 @@
+# SecureAuthApp
+
+Implement a user authentication system with secure login and registration functionality. Users should be able to sign up for an account, log in securely, and access protected routes only after successful authentication.
+
+## Preview 
+
+![Screenshot 2024-09-06 002709](https://github.com/user-attachments/assets/70450866-4641-43e0-891e-70371ce30224)
+![Screenshot 2024-09-06 002740](https://github.com/user-attachments/assets/d14a17d7-bf8c-4e86-9d11-b165f4194593)
+![Screenshot 2024-09-06 002801](https://github.com/user-attachments/assets/e3c219aa-7d91-432e-961e-5857e9280b01)
+
+## Technologies Used
+
+### MongoDB + Express.js + React.js + Node.js
+
+This template created with MERN Stack
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
